@@ -9,8 +9,10 @@
 
 <div style="text-align:justify"> <b>
 🥇 I am a second-year student at University of Information Technology with a deep passion for Artificial Intelligence (AI). My goal is to become an AI Engineer, and I am currently diving into the world of advanced technologies related to Large Language Models (LLMs) and Generative AI (GenAI). With relentless curiosity and dedication, I am constantly exploring and researching these cutting-edge fields, eager to discover new and exciting breakthroughs. This journey is shaping my path toward becoming a leading expert in AI, and I am excited to share my progress and insights with all of you.
-
 </b></div>
+
+---
+
 <img align="right" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" width=600, height=400>
 
 <h3 align="left">Languages and Tools:</h3>
