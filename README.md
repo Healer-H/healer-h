@@ -1,4 +1,4 @@
-![image](https://github.com/Healer-H/healer-h/assets/115353588/a905d4f6-a930-4812-a936-93432c2bfc1d)
+![image](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
 <h1 align="center">Hi 👋, I'm Minh Hieu Huynh</h1>
