@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=healer-h" alt="healer-h" /></a> </p>
 
 <div style="text-align:justify"> <b>
-🥇 I am a second-year student at University of Information Technology with a deep passion for Artificial Intelligence (AI). My goal is to become an AI Engineer, and I am currently diving into the world of advanced technologies related to Large Language Models (LLMs) and Generative AI (GenAI). With relentless curiosity and dedication, I am constantly exploring and researching these cutting-edge fields, eager to discover new and exciting breakthroughs. This journey is shaping my path toward becoming a leading expert in AI, and I am excited to share my progress and insights with all of you.
+🥇 I am a third-year student at University of Information Technology with a deep passion for Artificial Intelligence (AI). My goal is to become an AI Engineer, and I am currently diving into the world of advanced technologies related to Large Language Models (LLMs) and Generative AI (GenAI). With relentless curiosity and dedication, I am constantly exploring and researching these cutting-edge fields, eager to discover new and exciting breakthroughs. This journey is shaping my path toward becoming a leading expert in AI, and I am excited to share my progress and insights with all of you.
 </b></div>
 
 ---
